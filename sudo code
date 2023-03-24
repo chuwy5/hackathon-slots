@@ -1,1 +1,19 @@
 
+slot machine 
+
+
+####object 1
+random number seleccter 1-(howerver many spots on one wheel)
+return this number
+
+####object 2
+takes a number in
+  this number is then compared to a list and returns location of picture.
+
+###object 3
+make a list or somthing with 3 spots
+loop 3 times 
+  request from object 2 a picture and in the number being sent have object 1 send for the number and return in this spot so that object 2 gets it
+  store in list spot
+return list
+
